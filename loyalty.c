@@ -9,9 +9,13 @@ typedef struct bank_account {
     float amount;
 }bank_acc;
 
+                      /*      Helped Functions       */
+
 bank_acc * d_by_descending(bank_acc *acc, int c);
 void display_account_details(bank_acc * acc, int c);
 int if_exist_acc(bank_acc *acc, char cin[20], int c);
+
+                      /*    Loyalty function   */
 
 bank_acc *three_loyalty(bank_acc *acc,int c)
 {

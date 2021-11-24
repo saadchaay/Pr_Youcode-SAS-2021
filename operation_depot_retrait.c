@@ -35,7 +35,7 @@ bank_acc * operation_Withdrawal(bank_acc *acc, char cin[20], float val_to_wth, i
                 strcpy(accou[i].last_name, acc[i].last_name);
                 strcpy(accou[i].CIN, acc[i].CIN);
                 accou[i].amount = acc[i].amount-val_to_wth;
-                printf("\n\nOPERATION HAS BEEN SUCCESSFULLY\n\n");
+                printf("\nOPERATION HAS BEEN SUCCESSFULLY\n\n");
              }
         }
         else
