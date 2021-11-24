@@ -1,0 +1,193 @@
+# depslib dependency file v1.0
+1637535905 source:c:\users\flyme\onedrive\documents\projects c programming\projet-sas 2021\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637535145 source:c:\users\flyme\onedrive\documents\projects c programming\projet-sas 2021\insert_acc.c
+	<stdio.h>
+	<stdlib.h>
+
+1637535434 source:c:\users\flyme\onedrive\documents\projects c programming\projet-sas 2021\display_details_acc.c
+	<stdio.h>
+	<stdlib.h>
+
+1637535148 source:c:\users\flyme\onedrive\documents\projects c programming\projet-sas 2021\operation_depot_retrait.c
+	<stdio.h>
+	<stdlib.h>
+
+1637430901 source:c:\users\flyme\onedrive\documents\projects c programming\projet-sas 2021\get_functions.c
+	<stdio.h>
+	<stdlib.h>
+
+1637529670 source:c:\users\flyme\onedrive\documents\projects c programming\projet-sas 2021\loyalty.c
+	<stdio.h>
+	<stdlib.h>
+
+1637595571 source:c:\users\youcode\documents\project langage c\projet-sas 2021\display_details_acc.c
+	<stdio.h>
+	<stdlib.h>
+
+1637593347 source:c:\users\youcode\documents\project langage c\projet-sas 2021\get_functions.c
+	<stdio.h>
+	<stdlib.h>
+
+1637595484 source:c:\users\youcode\documents\project langage c\projet-sas 2021\insert_acc.c
+	<stdio.h>
+	<stdlib.h>
+
+1637567969 source:c:\users\youcode\documents\project langage c\projet-sas 2021\loyalty.c
+	<stdio.h>
+	<stdlib.h>
+
+1637596803 source:c:\users\youcode\documents\project langage c\projet-sas 2021\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637567969 source:c:\users\youcode\documents\project langage c\projet-sas 2021\operation_depot_retrait.c
+	<stdio.h>
+	<stdlib.h>
+
+1637611667 source:c:\users\flyme\downloads\projet-s-20211122t181121z-001\projet-s\display_details_acc.c
+	<stdio.h>
+	<stdlib.h>
+
+1637564424 source:c:\users\flyme\downloads\projet-s-20211122t181121z-001\projet-s\get_functions.c
+	<stdio.h>
+	<stdlib.h>
+
+1637563084 source:c:\users\flyme\downloads\projet-s-20211122t181121z-001\projet-s\insert_acc.c
+	<stdio.h>
+	<stdlib.h>
+
+1637535568 source:c:\users\flyme\downloads\projet-s-20211122t181121z-001\projet-s\loyalty.c
+	<stdio.h>
+	<stdlib.h>
+
+1637615791 source:c:\users\flyme\downloads\projet-s-20211122t181121z-001\projet-s\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637616751 source:c:\users\flyme\downloads\projet-s-20211122t181121z-001\projet-s\operation_depot_retrait.c
+	<stdio.h>
+	<stdlib.h>
+
+1637680064 source:c:\users\youcode\documents\project langage c\projet-s\display_details_acc.c
+	<stdio.h>
+	<stdlib.h>
+
+1637666636 source:c:\users\youcode\documents\project langage c\projet-s\get_functions.c
+	<stdio.h>
+	<stdlib.h>
+
+1637679100 source:c:\users\youcode\documents\project langage c\projet-s\insert_acc.c
+	<stdio.h>
+	<stdlib.h>
+
+1637673800 source:c:\users\youcode\documents\project langage c\projet-s\loyalty.c
+	<stdio.h>
+	<stdlib.h>
+
+1637679476 source:c:\users\youcode\documents\project langage c\projet-s\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637678881 source:c:\users\youcode\documents\project langage c\projet-s\operation_depot_retrait.c
+	<stdio.h>
+	<stdlib.h>
+
+1637647664 source:c:\users\flyme\onedrive\documents\projects c programming\projet-s\display_details_acc.c
+	<stdio.h>
+	<stdlib.h>
+
+1637634236 source:c:\users\flyme\onedrive\documents\projects c programming\projet-s\get_functions.c
+	<stdio.h>
+	<stdlib.h>
+
+1637646700 source:c:\users\flyme\onedrive\documents\projects c programming\projet-s\insert_acc.c
+	<stdio.h>
+	<stdlib.h>
+
+1637692110 source:c:\users\flyme\onedrive\documents\projects c programming\projet-s\loyalty.c
+	<stdio.h>
+	<stdlib.h>
+
+1637691890 source:c:\users\flyme\onedrive\documents\projects c programming\projet-s\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637692505 source:c:\users\flyme\onedrive\documents\projects c programming\projet-s\operation_depot_retrait.c
+	<stdio.h>
+	<stdlib.h>
+
+1637741140 source:c:\users\youcode\documents\project langage c\projet-sas\display_details_acc.c
+	<stdio.h>
+	<stdlib.h>
+
+1637741140 source:c:\users\youcode\documents\project langage c\projet-sas\get_functions.c
+	<stdio.h>
+	<stdlib.h>
+
+1637744278 source:c:\users\youcode\documents\project langage c\projet-sas\insert_acc.c
+	<stdio.h>
+	<stdlib.h>
+
+1637741140 source:c:\users\youcode\documents\project langage c\projet-sas\loyalty.c
+	<stdio.h>
+	<stdlib.h>
+
+1637743035 source:c:\users\youcode\documents\project langage c\projet-sas\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637742866 source:c:\users\youcode\documents\project langage c\projet-sas\operation_depot_retrait.c
+	<stdio.h>
+	<stdlib.h>
+
+1637741140 source:c:\users\youcode\documents\project langage c\projet-sasfinal\display_details_acc.c
+	<stdio.h>
+	<stdlib.h>
+
+1637741140 source:c:\users\youcode\documents\project langage c\projet-sasfinal\get_functions.c
+	<stdio.h>
+	<stdlib.h>
+
+1637741140 source:c:\users\youcode\documents\project langage c\projet-sasfinal\loyalty.c
+	<stdio.h>
+	<stdlib.h>
+
+1637746600 source:c:\users\youcode\documents\project langage c\projet-sasfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637742866 source:c:\users\youcode\documents\project langage c\projet-sasfinal\operation_depot_retrait.c
+	<stdio.h>
+	<stdlib.h>
+
+1637744894 source:c:\users\youcode\documents\project langage c\projet-sasfinal\insert_acc.c
+	<stdio.h>
+	<stdlib.h>
+
+1637741140 source:c:\users\youcode\desktop\projet-sasfinal\display_details_acc.c
+	<stdio.h>
+	<stdlib.h>
+
+1637741140 source:c:\users\youcode\desktop\projet-sasfinal\get_functions.c
+	<stdio.h>
+	<stdlib.h>
+
+1637744894 source:c:\users\youcode\desktop\projet-sasfinal\insert_acc.c
+	<stdio.h>
+	<stdlib.h>
+
+1637741140 source:c:\users\youcode\desktop\projet-sasfinal\loyalty.c
+	<stdio.h>
+	<stdlib.h>
+
+1637746600 source:c:\users\youcode\desktop\projet-sasfinal\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637742866 source:c:\users\youcode\desktop\projet-sasfinal\operation_depot_retrait.c
+	<stdio.h>
+	<stdlib.h>
+
