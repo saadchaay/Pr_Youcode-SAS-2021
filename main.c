@@ -103,7 +103,7 @@ void app_gestion(bank_acc *accounts, bank_acc *tmp_acc)
                     scanf("%s",&cin);
                     if(!if_exist_acc(accounts,cin,c))
                     {
-                        printf("\n\tSorry, the identity does't exist !!\n\n");
+                        printf("\n\tOperation failed, the identity does't exist !!\n\n");
                     }
                     else{
                         printf("\nHow much ?  ");
@@ -118,7 +118,7 @@ void app_gestion(bank_acc *accounts, bank_acc *tmp_acc)
                     scanf("%s",&cin);
                     if(!if_exist_acc(accounts,cin,c))
                     {
-                        printf("\n\tSorry, the identity does't exist !!\n\n");
+                        printf("\n\tOperation failed, the identity does't exist !!\n\n");
                     }
                     else{
                         printf("\nHow much ?  ");
@@ -144,9 +144,10 @@ void app_gestion(bank_acc *accounts, bank_acc *tmp_acc)
             {
                 printf("\n %s  \n\n We add 1.3 percentage in amount of the first three account. \n ",menu[4]);
                 accounts = three_loyalty(accounts,count);
+                printf("\n    ADDITION HAS BEEN SUCCESSFULLY   \n");
             }
             else
-                 printf("\n  Sorry, We have no accounts.\n");
+                 printf("\n  Addition failed, the bank accounts list is empty...\n");
             printf("\n");
             system("pause");
             app_gestion(accounts,tmp_acc);
